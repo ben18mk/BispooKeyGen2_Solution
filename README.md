@@ -165,8 +165,8 @@ Function call:
 At the end, the program checks if the user inputted password is equal to the generated password based on the username.
 
 **I attached 2 C files.**
-1. Check.c - checks if a username and password fit.
-2. pwn.c - find a correct password based on a given username.
+1. <a href="https://github.com/ben18mk/BispooKeyGen2_Solution/blob/main/Check.c">Check.c</a> - checks if a username and password fit.
+2. <a href="https://github.com/ben18mk/BispooKeyGen2_Solution/blob/main/pwn.c">pwn.c</a> - find a correct password based on a given username.
 
 In cmd, let’s run pwn.exe (that is compiled from pwn.c).</br>
 Enter *“Benjamin”* and the password is:</br>
