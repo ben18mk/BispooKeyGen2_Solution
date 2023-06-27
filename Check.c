@@ -115,7 +115,7 @@ int main()
 	{
 		if (*(password + ++i) || *(keygen + i))
 			continue;
-
+ 
 		if (i > 5)
 		{
 			printf("GOOD\n");
